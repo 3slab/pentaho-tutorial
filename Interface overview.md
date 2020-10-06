@@ -1,4 +1,6 @@
-﻿# Interface overview
+[<-- table of content](README.md)
+
+# Interface overview
 
 Here are the different components in the editor : 
 The *violet* boxes represent the pentaho settings buttons and the *green* boxes represent the editor itself.
