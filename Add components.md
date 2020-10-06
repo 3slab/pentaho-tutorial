@@ -1,4 +1,6 @@
-﻿# Add components
+[<-- table of content](Create%20a%20dashboard.md)
+
+# Add components
 
 First, we have to create a datasource from where the data will be sourced.
 
@@ -12,6 +14,7 @@ To do so :
 	* **remember** : you can only put one query per datasource, if you need to add another query you'll need to add another datasource
 
 Here is a video that show the steps :
+
 ![](https://i.imgur.com/l9bSUEC.gif)
 
 The we need to create the component itself :
@@ -21,5 +24,6 @@ The we need to create the component itself :
 4. under "*HtmlObject*" enter the name of the panel you want your component in
 
 Here is a video that show the steps :
+
 ![](https://i.imgur.com/nJUX23f.gif)
 
