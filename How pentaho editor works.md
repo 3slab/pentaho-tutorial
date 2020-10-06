@@ -1,4 +1,6 @@
-﻿# How pentaho editor works
+[<-- table of content](README.md)
+
+# How pentaho editor works
 
 We will focus on these 3 tabs (left to right) : layout, components and datasources panels.
 * layout panel : here you choose the general structure of the page like where is the title and where you can put things
