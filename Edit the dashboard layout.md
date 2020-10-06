@@ -1,4 +1,6 @@
-﻿# Edit the dashboard layout
+[<-- table of content](Create%20a%20dashboard.md)
+
+# Edit the dashboard layout
 
 Here are some examples on how to customize the dashboard layout.
 They were made with the "*3 Columns Template*" template.
