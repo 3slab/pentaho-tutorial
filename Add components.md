@@ -27,6 +27,8 @@ Here is a video that show the steps with an exemple :
 
 ![](https://i.imgur.com/l9bSUEC.gif)
 
+===
+
 The we need to create the component itself :
 1. go to the 2nd panel "*Components Panel*"
 ![](https://i.imgur.com/06JSgtD.png)
