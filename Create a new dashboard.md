@@ -39,9 +39,11 @@ Now the question is, how many rows and columns you can create using Bootstrap's 
 >   *  an html object
 
 Finish this part by saving your dashboard :
+
 ![](https://i.imgur.com/cdO7JcK.png)
 
 and then 
+
 ![](https://i.imgur.com/jEW5y73.png)
 
 ⚠️Don't forget to **save** frequently !
