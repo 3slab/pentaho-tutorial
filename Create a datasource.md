@@ -24,6 +24,8 @@
 
 6. put your query in the *Sql Editor*
 
+> Note : see [here to manage big queries](Queries%20with%20big%20loads.md)
+
 ![](https://i.imgur.com/gLSoSXu.png)
 
 Here is a video that show the steps with an exemple :
