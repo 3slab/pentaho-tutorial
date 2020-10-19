@@ -1,4 +1,4 @@
-﻿[<-- table of content](Create%20a%20dashboard.md)
+﻿[<-- table of content](Annexes.md)
  
  # Connect a database to pentaho
 
