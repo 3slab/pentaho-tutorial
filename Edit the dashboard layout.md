@@ -6,8 +6,8 @@
 Here are some examples on how to customize the dashboard layout.
 They were made with the "*3 Columns Template*" template. ([*How to select a template*](Create%20a%20new%20dashboard.md))
 
-* [Change the size of a layout element](#Change%20the%20size%20of%20a%20layout%20element)
-* [Change element html](#Change%20element%20html)
+* [Change the size of a layout element](#change-the-size-of-a-layout-element)
+* [Change element html](#change-element-html)
 
 ---
 
@@ -34,21 +34,27 @@ Here is a video that show the steps :
 
 Let's change the html of a layout element :
 * click on the element you want to edit
+
 ![](https://i.imgur.com/vbgrONE.png)
 
 * click on add html
+
 ![](https://i.imgur.com/w6ukFNL.png)
 
 * in the properties, select the box with dots at the end of the "*HTML*" line
+
 ![](https://i.imgur.com/xbi6WSS.png)
 
 * modify the html as you like
+
 ![](https://i.imgur.com/b7EqeN4.png)
 
 * You can preview anytime, with the preview button (top right)
+
 ![](https://i.imgur.com/LakUXQR.png)
 
 That gives us :
+
 ![](https://i.imgur.com/y56SBYH.png)
 
 
