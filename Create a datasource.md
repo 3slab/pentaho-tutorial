@@ -17,6 +17,7 @@
 
 4. setup the connection (depens of the type of the database you're using)
 	* under "*Jndi*" enter the name of the database you're using
+
 5. enter the query you want to work with *(click on the box with 3 dots)*
 	* **remember** : you can only put one query per datasource, if you need to add another query you'll need to add another datasource
 
