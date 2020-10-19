@@ -7,5 +7,6 @@
 3. [Edit the dashboard layout](Edit%20the%20dashboard%20layout.md)
 	* Change the size of a layout element
 	* Change element html
-4. [Add components](Add%20components.md)
+4. [Create a datasource](Create%20a%20datasource.md)
+5. [Add components](Add%20components.md)
 
