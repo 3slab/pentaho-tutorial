@@ -14,3 +14,8 @@
     * Create a datasource
     * Add components
 5. [Annexes](Annexes.md)
+    * Connect Pentaho to a database
+    * Queries with big loads
+    * Chrome tools
+    * Edit CDA
+    * Import custom CSS
