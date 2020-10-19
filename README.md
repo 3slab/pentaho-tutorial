@@ -8,4 +8,9 @@
 2. [Interface overview](Interface%20overview.md)
 3. [How pentaho editor  works](How%20pentaho%20editor%20works.md)
 4. [Create a dashboard](Create%20a%20dashboard.md)
+    * Connect a database to pentaho
+    * Create a new dashboard
+    * Edit the dashboard layout
+    * Create a datasource
+    * Add components
 5. [Annexes](Annexes.md)
