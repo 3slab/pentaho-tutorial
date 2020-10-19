@@ -1,5 +1,7 @@
 [<-- table of content](Create%20a%20dashboard.md)
 
+# Add components
+
 **You need a datasource**. [Click here to see how to create one](Create%20a%20datasource.md).
 
 Then we need to create the component itself :
