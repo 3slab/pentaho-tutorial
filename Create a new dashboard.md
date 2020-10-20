@@ -1,8 +1,15 @@
 
+
 [<-- table of content](Create%20a%20dashboard.md)
 
 # Create a new dashboard
 
+* [How to use a template](#how-to-use-a-template)
+* [How to customise the dashboard layout](#how-to-customise-the-dashboard-layout)
+
+---
+
+### How to use a template
 In the homepage :
 
 ![](https://i.imgur.com/CLm8P0W.png)
@@ -47,3 +54,44 @@ and then
 ![](https://i.imgur.com/jEW5y73.png)
 
 ⚠️Don't forget to **save** frequently !
+
+---
+
+### How to customise the dashboard layout
+
+* [Where to edit the layout](#where-to-edit-the-layout)
+* [Add a row](#add-a-row)
+* [Add a column](#add-a-column)
+* [Add an image](#add-an-image)
+* [Add custom html](#add-custom-html)
+
+
+##### Where to edit the layout
+
+To customise the dashboard you need to go to the layout panel :
+
+![](https://i.imgur.com/vNOHzDu.png)
+
+##### Add a row
+
+* click on the button "*Add row*"
+
+![](https://i.imgur.com/nN0d7AV.png)
+
+##### Add a column
+* select the row you want the column in
+* click the button "*Add column*"
+
+![](https://i.imgur.com/Lmt98Jl.png)
+
+##### Add an image
+* select the row and the column you want the image in
+* click the button "*Add image*"
+
+![](https://i.imgur.com/dxk4Lau.png)
+
+##### Add custom html
+* select the row and the column you want the html in
+* click the button "*Add html*"
+
+![](https://i.imgur.com/FEpKqyR.png)
