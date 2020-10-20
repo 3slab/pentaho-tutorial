@@ -1,4 +1,4 @@
-﻿[<-- table of content](README.md)
+[<-- table of content](README.md)
  
   # Annexes
 
@@ -7,3 +7,4 @@
 1. [Chrome tools](Chrome%20tools.md)
 1. [Edit CDA](Edit%20CDA.md)
 1. [Import custom CSS/JS](Import%20custom%20CSS%20or%20JS.md)
+1. [Import a file](Import%20a%20file.md)
