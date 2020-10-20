@@ -12,7 +12,8 @@
     * Edit the dashboard layout
     * Create a datasource
     * Add components
-5. [Annexes](Annexes.md)
+5. [Advanced functionalities](Advanced%20functionalities.md)
+6. [Annexes](Annexes.md)
     * Connect Pentaho to a database
     * Queries with big loads
     * Chrome tools
