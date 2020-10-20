@@ -2,5 +2,6 @@
 
 # Advanced functionalities
 
-* [Work with parameters and listeners](Work%20with%20parameters%20and%20listeners.md)
+* [Setup parameters](Setup%parameters.md)
+* [Setup listeners](Setup%20listeners.md)
 * [Export data](Export%20data.md)
