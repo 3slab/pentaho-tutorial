@@ -6,4 +6,4 @@
 1. [Queries with big loads](Queries%20with%20big%20loads.md)
 1. [Chrome tools](Chrome%20tools.md)
 1. [Edit CDA](Edit%20CDA.md)
-1. [Import custom CSS](Import%20custom%20CSS.md)
+1. [Import custom CSS/JS](Import%20custom%20CSS%20or%20JS.md)
