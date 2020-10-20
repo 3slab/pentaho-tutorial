@@ -18,6 +18,7 @@ Then we need to create the component itself :
 ![](https://i.imgur.com/HWPYL9G.png)
 
 4. under "*HtmlObject*" enter the name of the panel you want your component in
+> Note that you can put only **one** component per Html object
 
 ![](https://i.imgur.com/vGIIjEJ.png)
 
