@@ -13,6 +13,8 @@
     * Create a datasource
     * Add components
 5. [Advanced functionalities](Advanced%20functionalities.md)
+   * Work with parameters and listeners
+   * Export data
 6. [Annexes](Annexes.md)
     * Connect Pentaho to a database
     * Queries with big loads
