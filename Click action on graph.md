@@ -1,4 +1,4 @@
 [<-- table of content](Advanced%20functionalities.md)
 
-# Setup listeners
+# Click action on graph
 
