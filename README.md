@@ -1,4 +1,4 @@
-﻿![](https://i.imgur.com/bT9yIdL.png)
+![](https://i.imgur.com/bT9yIdL.png)
 
 # PENTAHO - Suez Tutorial
 
@@ -22,3 +22,6 @@
     * Chrome tools
     * Edit CDA
     * Import custom CSS
+
+All the examples were made with the VDM database as the data source.
+
