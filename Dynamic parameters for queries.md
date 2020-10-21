@@ -1,6 +1,7 @@
+
 [<-- table of content](Advanced%20functionalities.md)
 
-# Setup parameters
+# Dynamic parameters for queries
 
 * [Prerequisite](#prerequisite)
 * [Create the Date Range Input component](#create-the-date-range-input-component)
@@ -87,7 +88,8 @@ As a date range outputs two dates we have to create two parameters `startDate` a
 
 ![](https://i.imgur.com/Wo9AjJo.png)
 
-* click on listeners, select the two we have created
+* click on listeners, select the two parameters we have created
+> Listener are parameters that your component will watch and each change will update the component.
 
 ![](https://i.imgur.com/PFhvdEt.png)
 
@@ -129,3 +131,17 @@ where to_char("DateDebutIntervention", 'YYYY-MM-DD') >= ${start}
 ```
 
 ### Test
+* Load the preview
+
+![](https://i.imgur.com/WV2YRnb.png)
+
+* To change the date range, simply click on the select in the first row
+
+![](https://i.imgur.com/kJhTb9s.png)
+
+> A specific date also work for a date range
+
+* Changing the date in the select will update the graph
+
+![](https://i.imgur.com/SZyfMpv.png)
+
