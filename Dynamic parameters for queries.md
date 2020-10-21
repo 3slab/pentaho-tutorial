@@ -26,7 +26,7 @@ In this part, we will setup a simple double parameter dashboard.
 
 * datasource used
 ```sql
-select COALESCE("LibelleCommune",'null') as LibelleCommune, COALESCE("CodeCommune", 'null') as CodeCommune, count(*)
+select COALESCE("LibelleCommune",'null') as LibelleCommune, COALESCE("CodeCommune", 'null') as CodeCommune, count("CodeCommune")
 from intervention
 where to_char("DateDebutIntervention", 'YYYY-MM-DD') >= '2020-08-01'
   and to_char("DateFinIntervention", 'YYYY-MM-DD') <= '2020-08-01'
