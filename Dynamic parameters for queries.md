@@ -25,7 +25,7 @@ In this part, we will setup a simple double parameter dashboard.
 ![](https://i.imgur.com/CzD7f51.png)
 
 * datasource used
-```
+```sql
 select COALESCE("LibelleCommune",'null') as LibelleCommune, COALESCE("CodeCommune", 'null') as CodeCommune, count(*)
 from intervention
 where to_char("DateDebutIntervention", 'YYYY-MM-DD') >= '2020-08-01'
@@ -120,12 +120,12 @@ As a date range outputs two dates we have to create two parameters `startDate` a
 We will change the static date value to the parameter value
 
 ---> This :
-```
+```sql
 where to_char("DateDebutIntervention", 'YYYY-MM-DD') >= '2020-08-01'
   and to_char("DateFinIntervention", 'YYYY-MM-DD') <= '2020-08-01'
 ```
 ---> Becomes :
-```
+```sql
 where to_char("DateDebutIntervention", 'YYYY-MM-DD') >= ${start}
   and to_char("DateFinIntervention", 'YYYY-MM-DD') <= ${end}
 ```
