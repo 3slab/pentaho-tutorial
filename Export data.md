@@ -114,3 +114,9 @@ You have three choices :
 * export inter table come from 
 
 ![](https://i.imgur.com/22Nr5Vs.png)
+
+> ⚠️ Note : the preview of export chart to png or svg is only working when you preview the `.wcdf` file.
+> 
+> ![](https://i.imgur.com/PRf0YdP.png)
+> 
+> The export preview will not work if you do it in the editor (where the tab is named with "*Editing:* name").
