@@ -13,15 +13,16 @@
     * Create a datasource
     * Add components
 5. [Advanced functionalities](Advanced%20functionalities.md)
-   * Setup parameters
-   * Setup listeners
+   * Dynamic parameters for queries
+   * Click action on graph
    * Export data
 6. [Annexes](Annexes.md)
     * Connect Pentaho to a database
     * Queries with big loads
     * Chrome tools
     * Edit CDA
-    * Import custom CSS
+    * Import custom CSS/JS
+    * Import a file
 
 > Every examples in this tutorial were made with the VDM database as the data source.
 
