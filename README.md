@@ -23,5 +23,5 @@
     * Edit CDA
     * Import custom CSS
 
-> Every the examples in this tutorial were made with the VDM database as the data source.
+> Every examples in this tutorial were made with the VDM database as the data source.
 
