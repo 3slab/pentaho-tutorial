@@ -100,7 +100,7 @@ function() {
 
 Then when you preview :
 
-![](https://i.imgur.com/RzLzH7C.png)
+![](https://i.imgur.com/zd4bYhu.png)
 
 You have three choices :
 * Export chart : comes from these options
@@ -109,7 +109,7 @@ You have three choices :
 
 * Export table : comes from these options
 
-![](https://i.imgur.com/Cx2Wtp0.png)
+![](https://i.imgur.com/X4T9jjy.png)
 
 * export inter table come from 
 
