@@ -31,7 +31,7 @@ where to_char("DateDebutIntervention", 'YYYY-MM-DD') >= '2020-08-01'
   and to_char("DateFinIntervention", 'YYYY-MM-DD') <= '2020-08-01'
   and "DateDebutIntervention" IS NOT NULL
   and "DateFinIntervention" IS NOT NULL
-  and "CodeCommune" = 35
+  and "CodeCommune" = '35'
 ;
 ```
 > We will make the query dynamic later.
