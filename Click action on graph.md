@@ -120,6 +120,7 @@ Rename in order of appearition, from left to right, the columns you want to disp
 > ![](https://i.imgur.com/PFH4ggf.png)
 > 
 > which will give 
+>
 > ![](https://i.imgur.com/SMDjM5L.png)
 
 In this case we need the first three columns
@@ -149,7 +150,7 @@ Here we will see how to change the `code_comm` by clicking on a slice of the pie
 
 ```js
 function setparamcodecomm(scene) {
-	//store in a variable the value of the selected slice
+    //store in a variable the value of the selected slice
     var category = scene.vars.category.value;
     
     //if the value if null, change to a dummy value
@@ -159,11 +160,11 @@ function setparamcodecomm(scene) {
     }
     
     //equivalent to console.log (which also work)
-	Logger.log("Selected category" + category);
+    Logger.log("Selected category" + category);
 	
-	//dashboard is the JS object for your dashboard
-	//fireChange is a built-in function to the value of a parameter
-	//then we edit the value of code_comm parameter with the value stored before
+    //dashboard is the JS object for your dashboard
+    //fireChange is a built-in function to the value of a parameter
+    //then we edit the value of code_comm parameter with the value stored before
     dashboard.fireChange('code_comm', category);
 }
 ```
