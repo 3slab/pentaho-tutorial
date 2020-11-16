@@ -23,6 +23,7 @@
     * Edit CDA
     * Import custom CSS/JS
     * Import a file
+    * Bullet chart
 
 > Every examples in this tutorial were made with the VDM database as the data source.
 
